@@ -1,2 +1,1 @@
-change first line;
-change seconds line;
+modify 2;
